@@ -75,11 +75,10 @@ Aqui estão exemplos reais de consultas feitas ao Segundo Cérebro, evidenciando
 
 ## 📦 Materiais Gerados no Estúdio
 
-No Estúdio do Gemini Notebook, foram exportados materiais de síntese e estudo:
+No Estúdio do Gemini Notebook, foram exportados os seguintes materiais de síntese e estudo:
 
-1. **Guia de Estudos:** `assets/materiais/guia-de-estudos-buffett.pdf` (ou `.md`)
-2. **Mapa Mental dos Pilares de Buffett:** `assets/materiais/mapa-mental-pilares.png`
-3. **Resumo Executivo / Slides:** `assets/materiais/resumo-executivo.pdf`
+1. **Guia de Estudos / Documento Síntese:** [`assets/materiais/The_Architecture_of_Value.pdf`](assets/materiais/The_Architecture_of_Value.pdf)
+2. **Resumo Multimídia / Áudio/Vídeo de Revisão:** [`assets/materiais/A_Evolução_de_Buffett.mp4`](assets/materiais/A_Evolução_de_Buffett.mp4)
 
 ---
 
