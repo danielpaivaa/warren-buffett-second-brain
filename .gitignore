@@ -1,0 +1,7 @@
+# Ignore OS and temp files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore local scratch notes if any
+*.tmp
